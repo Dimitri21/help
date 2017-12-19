@@ -1,0 +1,26 @@
+{
+  "name": "telegram-absent",
+  "version": "1.0.0",
+  "description": "telegram bot absent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimitri21/telegram-absent.git"
+  },
+  "author": "Dimitri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimitri21/telegram-absent/issues"
+  },
+  "homepage": "https://github.com/Dimitri21/telegram-absent#readme",
+  "dependencies": {
+    "deg2rad": "^1.0.0",
+    "geolocation": "^0.2.0",
+    "mysql": "^2.15.0",
+    "sequelize": "^3.31.1",
+    "telegram-node-bot": "^4.0.5"
+  }
+}
